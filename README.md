@@ -1,3 +1,6 @@
+> [!NOTE]
+> This README was mainly made with AI
+
 # STR Scheduler Project
 
 This project is a real-time scheduling tool implemented in x86 assembly for Linux. It supports three scheduling strategies:
@@ -190,6 +193,3 @@ Expected behavior:
 This project is useful for studying low-level implementations of real-time scheduling algorithms in assembly language and for exploring STR scheduling concepts in a minimalist Linux environment.
 
 ---
-
-> [!NOTE]
-> This README was mainly made with AI
