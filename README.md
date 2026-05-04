@@ -1,3 +1,6 @@
+[!NOTE]
+This README was mainly did with IA
+
 # STR Scheduler Project
 
 This project is a real-time scheduling tool implemented in x86 assembly for Linux. It supports three scheduling strategies:
