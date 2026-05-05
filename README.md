@@ -31,7 +31,7 @@ The project is distributed as assembly source files and assembled with GNU `as` 
 
 ## Build
 
-From the project root (`/home/sergio/UPC/STR/Scripts`):
+From the project root:
 
 ```bash
 make
